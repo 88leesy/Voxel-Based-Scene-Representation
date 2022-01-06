@@ -1,0 +1,116 @@
+﻿  H_voxel_DB.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1617): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(130): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(130): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(240): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(240): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(292): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(292): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(859): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(859): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(859): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(859): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(897): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1064): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1064): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1064): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1064): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1117): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1117): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1117): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1117): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1117): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1117): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1299): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1299): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1523): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1523): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1551): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(1551): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(2364): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(2364): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(3022): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(3022): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(3429): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(3429): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(3539): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\h_voxel_db.cpp(3539): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Octree.cpp
+  PlaneRANSAC.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1617): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  SY_Labeling.cpp
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\sy_labeling.cpp(36): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\sy_labeling.cpp(37): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\sy_labeling.cpp(97): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\sy_labeling.cpp(98): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main_Aachen_binFile.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1617): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\experiment3_ver7_aachen.h(495): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\experiment3_ver7_aachen.h(495): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\experiment3_ver7_aachen.h(573): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\experiment3_ver7_aachen.h(573): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\experiment3_ver7_aachen.h(814): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+  voxel_DB.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\program files\pcl 1.8.0\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1617): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(726): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(726): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(819): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(819): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(877): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(877): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1029): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1029): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1088): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1088): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1182): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1182): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1276): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1276): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1333): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1333): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1552): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1552): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1608): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1608): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1673): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1673): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1763): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1763): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1821): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(1821): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2040): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2040): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2104): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2104): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2175): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2175): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2265): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2265): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2323): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2323): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2511): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2511): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2601): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2601): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2659): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2659): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2826): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2826): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2890): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\cvm\desktop\voxel_representaion\nvm_loader\voxel_db.cpp(2890): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다.
+  All 3126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  nvm_loader.vcxproj -> C:\Users\cvm\Desktop\voxel_representaion\x64\Release\voxel_representation.exe

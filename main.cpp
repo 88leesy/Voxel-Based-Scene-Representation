@@ -74,17 +74,17 @@ KingsCollege, OldHospital, ShopFacade, StMarysChurch, Street
 		if (id == 0)
 		{
 			cubeSize = 100;
-			input_filename = "[ShopFacade] reconstruction.nvm";            //first argument must be filename
+			input_filename = "E:\[ShopFacade] reconstruction.nvm";            //first argument must be filename
 		}
 		else if (id == 1)
 		{
 			cubeSize = 15;
-			input_filename = "[OldHospital] reconstruction.nvm";
+			input_filename = "E:\[OldHospital] reconstruction.nvm";
 		}
 		else if (id == 2)
 		{
 			cubeSize = 50;
-			input_filename = "[KingsCollege] reconstruction.nvm";
+			input_filename = "E:\[KingsCollege] reconstruction.nvm";
 		}
 		else if (id == 3)
 		{
